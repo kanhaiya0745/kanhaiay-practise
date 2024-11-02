@@ -1,2 +1,2 @@
 # kanhaiay-practise
- all the practise code are here
+ all the practise code are here.
